@@ -1,0 +1,793 @@
+{
+ "Actividad/India Dormida/IMG_0268.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/India Dormida/IMG_0382.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/India Dormida/IMG_2419.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Actividad/India Dormida/IMG_2422.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Actividad/India Dormida/IMG_2445.mp4": {
+  "tipo": "video",
+  "duracion": 1,
+  "w": 1080,
+  "h": 1920
+ },
+ "Actividad/India Dormida/IMG_2447.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Actividad/India Dormida/IMG_2483.mp4": {
+  "tipo": "video",
+  "duracion": 5.1,
+  "w": 1080,
+  "h": 1920
+ },
+ "Actividad/Recorrido por El Níspero Zoo/IMG_1029.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Recorrido por El Níspero Zoo/IMG_1033.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Recorrido por El Níspero Zoo/IMG_1037.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Recorrido por El Níspero Zoo/IMG_1043.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Recorrido por El Níspero Zoo/IMG_1055.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Recorrido por El Níspero Zoo/IMG_1058.mp4": {
+  "tipo": "video",
+  "duracion": 4.1,
+  "w": 1080,
+  "h": 1920
+ },
+ "Actividad/Recorrido por El Níspero Zoo/IMG_1080.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Recorrido por El Níspero Zoo/IMG_1111.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1157.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1204.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1205.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1215.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1300.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1304.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1327.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1329.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1343.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Subida al Cerro de la Cruz (4 km)/IMG_1348.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Visita al Parque Metropolitano/IMG_0582.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Visita al Parque Metropolitano/IMG_0585.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Actividad/Visita al Parque Metropolitano/IMG_0600.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Visita al Parque Metropolitano/IMG_0602.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Visita al Parque Metropolitano/IMG_0606.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Visita al Parque Metropolitano/IMG_0620.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Visita al Parque Metropolitano/IMG_0629.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Actividad/Visita al Parque Metropolitano/IMG_1803.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1333
+ },
+ "Creatividad/Fotografiando al águila arpía en el summit/44e76313-25e4-43fb-a709-316481edf478.webp": {
+  "tipo": "foto",
+  "w": 900,
+  "h": 1600
+ },
+ "Creatividad/Fotografiando al águila arpía en el summit/452b11ed-de7a-45ac-86a4-bbcf71589a31.webp": {
+  "tipo": "foto",
+  "w": 1200,
+  "h": 1600
+ },
+ "Creatividad/Fotografiando al águila arpía en el summit/6117A46F-13A3-4C2E-94A4-2DFC6F4888E8.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Creatividad/Fotografiando al águila arpía en el summit/IMG_0669.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografiando al águila arpía en el summit/IMG_0683.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografiando al águila arpía en el summit/IMG_1917_1_.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografiando al águila arpía en el summit/IMG_1917.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/13C7B72B-6120-48DD-A2F5-E7AB59EEE176.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/DSC02634.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/DSC02636.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/DSC02639.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0011.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0012.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0013.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0014.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0015.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0016.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0017.mp4": {
+  "tipo": "video",
+  "duracion": 1,
+  "w": 1080,
+  "h": 1920
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0018.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0019.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0021.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0022.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0023.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0024.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0025.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0026.webp": {
+  "tipo": "foto",
+  "w": 1125,
+  "h": 2000
+ },
+ "Creatividad/Fotografía astronómica – captura de la Luna/IMG_0027.mp4": {
+  "tipo": "video",
+  "duracion": 13.4,
+  "w": 1080,
+  "h": 1920
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1178.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1180.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1333
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1185.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1196.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1333
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1216.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1222.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1227.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1232.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1333
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/AL2.0 nostalgia/IMG_1234.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1333
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Caja de cristal/IMG_1911.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Caja de cristal/IMG_1917.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Caja de cristal/IMG_1929.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Caja de cristal/IMG_1933.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Caja de cristal/IMG_1940.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Caja de cristal/IMG_1942.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Caja de cristal/IMG_1945.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Caja de cristal/IMG_1959.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Estética VHS/IMG_2357.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Estética VHS/IMG_2359.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Estética VHS/IMG_2362.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Estética VHS/IMG_2365.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Estética VHS/IMG_2366.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Estética VHS/IMG_2367.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La belleza del error/IMG_2332.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La belleza del error/IMG_2334.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La belleza del error/IMG_2335.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La belleza del error/IMG_2336.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La belleza del error/IMG_2353.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La necesidad de pertenecer/IMG_3146.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La necesidad de pertenecer/IMG_3155.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La necesidad de pertenecer/IMG_3171.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La necesidad de pertenecer/IMG_3175.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/La necesidad de pertenecer/IMG_3184.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Portada Academy Legends/80171C52-31CD-49CE-BB03-BC5DED9D73EC.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Quizás estoy viendo demasiado/IMG_3179.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Quizás estoy viendo demasiado/IMG_3193.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Quizás estoy viendo demasiado/IMG_3207.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Quizás estoy viendo demasiado/IMG_3214.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/Quizás estoy viendo demasiado/IMG_3217.webp": {
+  "tipo": "foto",
+  "w": 1645,
+  "h": 956
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3282.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3298.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3303_1_.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3307.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3317.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3327.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3329.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3330.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3331.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3334.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3336.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3342.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3349.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3353.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3355.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3359.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3362.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Fotografías para la revista escolar (diversos artículos)/UF AL SPT2 2026/IMG_3364.webp": {
+  "tipo": "foto",
+  "w": 1333,
+  "h": 2000
+ },
+ "Creatividad/Jóvenes Creativos – Fundación Rofé/IMG_1321.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Jóvenes Creativos – Fundación Rofé/IMG_1324.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Jóvenes Creativos – Fundación Rofé/IMG_1327.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8098.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8102.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8103.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8104.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8108.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8115.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8123.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8124.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8132.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8134.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8142.mp4": {
+  "tipo": "video",
+  "duracion": 3.7,
+  "w": 1080,
+  "h": 1920
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8152.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Creatividad/Olimpiadas Nacionales de Robótica 2025/IMG_8153.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Servicio/Día de limpieza del laboratorio del colegio con 12.º A IB/371b6c73-47b7-45cf-ab7f-6bb40c1d3621.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1334
+ },
+ "Servicio/Día de limpieza del laboratorio del colegio con 12.º A IB/67381129-7e81-4f7d-807e-0e6c85bc9865.webp": {
+  "tipo": "foto",
+  "w": 1334,
+  "h": 2000
+ },
+ "Servicio/Día de limpieza del laboratorio del colegio con 12.º A IB/c49ea52c-5e84-4066-a461-e5b8e41c95eb.webp": {
+  "tipo": "foto",
+  "w": 1334,
+  "h": 2000
+ },
+ "Servicio/Día de limpieza del laboratorio del colegio con 12.º A IB/dbdf9b36-b611-4bb3-a532-919d830ddaac.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1334
+ },
+ "Servicio/Día de limpieza del laboratorio del colegio con 12.º A IB/ebf7a74f-8293-43f4-a360-e03a69a9e69d.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1334
+ },
+ "Servicio/Proyecto eButterfly/IMG_2394.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Proyecto eButterfly/IMG_4807.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Servicio/Proyecto eButterfly/IMG_4839.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Proyecto eButterfly/IMG_4843.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Proyecto eButterfly/IMG_4844.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Proyecto eButterfly/IMG_4846.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Proyecto eButterfly/IMG_4849.webp": {
+  "tipo": "foto",
+  "w": 2000,
+  "h": 1500
+ },
+ "Servicio/Teletón 2025/IMG_3250.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3251.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3253.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3254.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3256.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3261.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3262.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3263.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3268.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3285.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3287.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ },
+ "Servicio/Teletón 2025/IMG_3289.webp": {
+  "tipo": "foto",
+  "w": 1500,
+  "h": 2000
+ }
+}

@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+/* No escanear las carpetas de fotos y videos (pesan cientos de MB) */
+@source not '../actividad cas';
+@source not './media';
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Newsreader', ui-serif, Georgia, serif;
+
+  --color-papel: #fafaf9;
+  --color-tinta: #111827;
+  --color-gris: #6b7280;
+  --color-linea: #e5e7eb;
+  --color-visor: #0b0b0c;
+
+  /* Colores de categoría: sobrios, solo para marcas pequeñas */
+  --color-creatividad: #9a3412;
+  --color-actividad: #1e4e8c;
+  --color-servicio: #3f6212;
+}
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-gutter: stable;
+}
+
+body {
+  @apply bg-papel font-sans text-tinta antialiased;
+}
+
+::selection {
+  background: #e7e5e4;
+}
+
+/* Etiqueta pequeña en versalitas */
+@utility rotulo {
+  @apply text-[11px] font-medium tracking-[0.14em] text-gris uppercase;
+}
